@@ -26,7 +26,7 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository** (if using git):
    ```bash
-   git clone https://github.com/Nithininturi/Twitter-Sentiment-Analysis.git
+   https://github.com/sumanthkumarreddy100/Twitter-Sentiment-analysis.git
    ```
 
 2. **Create a virtual environment** (recommended):
@@ -104,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: [Venkata Nithin Inturi]
-- **Email**: [inturi.nitin2004@gmail.com]
+- **Author**: [SYAGAM SUMANTH KUMAR REDDY]
+- **Email**: [sumanthkumarreddy100@gmail.com]
 
 ## Acknowledgments
 
